@@ -1,7 +1,7 @@
 ## Welcome to my github pages!
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-## 李笑来系列书籍
+## 李笑来书籍
 > * [区块链小白书](https://blockchainlittlebook.com)
 > * [定投改变命运（第三版）](https://onregularinvesting.com)
 > * [把时间当作朋友](/befriending-time/)
@@ -13,6 +13,5 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 > * [挤挤都会有的](/ji/)
 
 ## 逻辑思维书籍
-> * Beyond-feelings（[在线阅读](https://www.academia.edu/10983846/Beyond_Feelings_A_Guide_to_Critical_Thinking_NINTH_EDITION)·[pdf下载](https://github.com/liudawozhemebang/beyond-feelings/blob/master/Beyond_Feelings_A_Guide_to_Critical_Thin.pdf)）
-
+> * [Beyond-feelings](https://nbviewer.jupyter.org/github/liudawozhemebang/beyond-feelings/blob/master/Beyond_Feelings_A_Guide_to_Critical_Thin.pdf)
 
