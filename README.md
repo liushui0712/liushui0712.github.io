@@ -1,8 +1,7 @@
-## 我的github博客简介
-还在酝酿中
+## Welcome to my github pages!
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-## 书籍推荐
+## 李笑来系列书籍
 > * [区块链小白书](https://blockchainlittlebook.com)
 > * [定投改变命运（第三版）](https://onregularinvesting.com)
 > * [把时间当作朋友](/befriending-time/)
@@ -11,7 +10,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 > * INBlockchain 开源投资原则 ([中文](/INB-Principles/cn/) · [English](/INB-Principles/en/))
 > * [我也有话要说](/i-have-a-say/)
 > * [人人都能用英语](/everyone-can-use-english/)
-> * [挤挤都会有的 —— 写给女生的性高潮指南](/ji/)
+> * [挤挤都会有的](/ji/)
+
+## 逻辑思维书籍
 > * Beyond-feelings（[在线阅读](https://www.academia.edu/10983846/Beyond_Feelings_A_Guide_to_Critical_Thinking_NINTH_EDITION)·[pdf下载](https://github.com/liudawozhemebang/beyond-feelings/blob/master/Beyond_Feelings_A_Guide_to_Critical_Thin.pdf)）
 
 
