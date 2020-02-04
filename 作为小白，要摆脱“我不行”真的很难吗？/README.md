@@ -26,28 +26,28 @@
 #### 2、网页展示中的内容怎么编辑？
 
 >  * **超链接？网址？图片？一头雾水啊！
-**只能搜索学习**[Markdown的基本操作](http://xianbai.me/learn-md/article/syntax/lists.html)**![xiaolai的README内容](https://upload-images.jianshu.io/upload_images/20095163-6109d2443698c4ee.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+**只能搜索学习**[Markdown的基本操作](http://xianbai.me/learn-md/article/syntax/lists.html)**![xiaolai的README内容](images/1.png)
 > * **有的书名不是超链接到网址，而是文件名怎么办？**
 继续google咯，必须得把原文件导入到自己的repo里。
 
 
 #### 3、库里的文件怎么导入？
 >  * **GitHub Desktop的下载与应用**
->  + **Mac怎么打开相应repo的文件夹......**![文件夹路径](https://upload-images.jianshu.io/upload_images/20095163-234b3163749b313b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-> + **上传时没法登陆账号是什么情况？**![Error](https://upload-images.jianshu.io/upload_images/20095163-fa363572885506d9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+>  + **Mac怎么打开相应repo的文件夹......**![文件夹路径](images/2.png)
+> + **上传时没法登陆账号是什么情况？**![Error](images/3.png)
 > + **[Google多次后终于找到最优链接](https://github.com/desktop/desktop/issues/3680)**
-![大神解答](https://upload-images.jianshu.io/upload_images/20095163-8a9af190e6e52f83.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![大神解答](images/4.png)
 
 
 ## 三、雏形乍现
 啊哈，有点样子了，这下可以打开导向文件名而非链接的书名了！[https://wangchao.plus/](https://wangchao.plus/)
-![雏形](https://upload-images.jianshu.io/upload_images/20095163-dbd94c8308b52400.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![雏形](images/5.png)
 
 
 
 ## 四、妥协与待办
 
-1.**Beyond-feelings**是本必推书，但我只有它的pdf文件，不是.md的，刘晓艳老师分享的github也没有，![刘老师的github](https://upload-images.jianshu.io/upload_images/20095163-1b8d01534d28bba0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+1.**Beyond-feelings**是本必推书，但我只有它的pdf文件，不是.md的，刘晓艳老师分享的github也没有，![刘老师的github](images/6.png)
  怎么办呢？Google啊！*[如何把一份 PDF 文件挂在网上](https://jiap.me/tutorial/how-to-post-pdf-on-website/)*是比较详细的一个链接了，但是真心搞不来，还要搞hexo，有点脱离主目标了，暂时放一下。
 
 2.整体内容的编排，包括主题栏的修改。毕竟现在只是把笑来老师的东西放在这儿，需要填充的太多太多。不过剩下的都是细活儿了，毕竟咱技术杠杠的了，哈哈。
