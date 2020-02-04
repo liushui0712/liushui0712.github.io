@@ -13,5 +13,5 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 > * [挤挤都会有的](/ji/)
 
 ## 逻辑思维书籍
-> * [Beyond-feelings](https://nbviewer.jupyter.org/github/liudawozhemebang/beyond-feelings/blob/master/Beyond_Feelings_A_Guide_to_Critical_Thin.pdf)
+> * [Beyond-feelings英文原版](https://nbviewer.jupyter.org/github/liudawozhemebang/beyond-feelings/blob/master/Beyond_Feelings_A_Guide_to_Critical_Thin.pdf)
 
