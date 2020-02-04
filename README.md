@@ -15,3 +15,5 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ## 逻辑思维书籍
 > * [Beyond-feelings英文原版](https://nbviewer.jupyter.org/github/liudawozhemebang/beyond-feelings/blob/master/Beyond_Feelings_A_Guide_to_Critical_Thin.pdf)
 
+## 我的成长
+> * [作为小白，要摆脱“我不行”真的很难吗？](/作为小白，要摆脱“我不行”真的很难吗？/)
