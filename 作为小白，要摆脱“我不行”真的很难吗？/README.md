@@ -26,7 +26,7 @@
 #### 2、网页展示中的内容怎么编辑？
 
 >  * **超链接？网址？图片？一头雾水啊！
-**只能搜索学习**[Markdown的基本操作](http://xianbai.me/learn-md/article/syntax/lists.html)**![xiaolai的README内容](https://github.com/liushui0712/liushui0712.github.io/blob/master/%E4%BD%9C%E4%B8%BA%E5%B0%8F%E7%99%BD%EF%BC%8C%E8%A6%81%E6%91%86%E8%84%B1%E2%80%9C%E6%88%91%E4%B8%8D%E8%A1%8C%E2%80%9D%E7%9C%9F%E7%9A%84%E5%BE%88%E9%9A%BE%E5%90%97%EF%BC%9F/images/1.png)
+**只能搜索学习**[Markdown的基本操作](http://xianbai.me/learn-md/article/syntax/lists.html)**![xiaolai的README内容](images/1.png)
 > * **有的书名不是超链接到网址，而是文件名怎么办？**
 继续google咯，必须得把原文件导入到自己的repo里。
 
