@@ -17,7 +17,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 > * [Beyond-feelings英文原版](https://nbviewer.jupyter.org/github/liudawozhemebang/beyond-feelings/blob/master/Beyond_Feelings_A_Guide_to_Critical_Thin.pdf)
 ## 知识管理
 > * [好好学习·成甲  在线阅读](https://yuedu.163.com/book_reader/a5f3c3a6aebf47ca95f7efafd188dc88_4)
-> * [好好学习·成甲  下载链接]（https://epubw.com/download/?o=uve5C1o=）
+> * [好好学习·成甲  下载链接](https://epubw.com/download/?o=uve5C1o=)
 
 ## 我的成长
 > * [作为小白，要摆脱“我不行”真的很难吗？](/作为小白，要摆脱“我不行”真的很难吗？/)
