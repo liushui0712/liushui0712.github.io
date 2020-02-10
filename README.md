@@ -4,6 +4,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ## 李笑来书籍
 > * [区块链小白书](https://blockchainlittlebook.com)
 > * [定投改变命运（第三版）](https://onregularinvesting.com)
+> * [韭菜的自我修养·中文版](/the-self-cultivation-of-leeks/cn/) 
+> * [韭菜的自我修养·English](/the-self-cultivation-of-leeks/en/)）
 > * [把时间当作朋友](/befriending-time/)
 > * [Bitcoin 白皮书（中英对照）](/bitcoin-whitepaper-cn-en-translation/Bitcoin-Whitepaper-EN-CN.html)
 > * [坐享其成](https://github.com/xiaolai/zuoxiangqicheng)
@@ -15,6 +17,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## 逻辑思维
 > * [Beyond-feelings英文原版](https://nbviewer.jupyter.org/github/liudawozhemebang/beyond-feelings/blob/master/Beyond_Feelings_A_Guide_to_Critical_Thin.pdf)
+
 ## 知识管理
 > * [好好学习·成甲  在线阅读](https://yuedu.163.com/book_reader/a5f3c3a6aebf47ca95f7efafd188dc88_4)
 > * [好好学习·成甲  下载链接](https://epubw.com/download/?o=uve5C1o=)
