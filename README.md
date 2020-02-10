@@ -14,7 +14,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 > * [INBlockchain 开源投资原则·English](/INB-Principles/en/))
 > * [我也有话要说](/i-have-a-say/)
 > * [人人都能用英语](/everyone-can-use-english/)
-
+> * [挤挤都会有的](/ji/)
 
 ## 逻辑思维
 > * [Beyond-feelings英文原版](https://nbviewer.jupyter.org/github/liudawozhemebang/beyond-feelings/blob/master/Beyond_Feelings_A_Guide_to_Critical_Thin.pdf)
