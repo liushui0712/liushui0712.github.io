@@ -5,7 +5,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 > * [区块链小白书](https://blockchainlittlebook.com)
 > * [定投改变命运（第三版）](https://onregularinvesting.com)
 > * [韭菜的自我修养·中文版](/the-self-cultivation-of-leeks/cn/) 
-> * [韭菜的自我修养·English](/the-self-cultivation-of-leeks/en/)）
+> * [韭菜的自我修养·English](/the-self-cultivation-of-leeks/en/)
 > * [把时间当作朋友](/befriending-time/)
 > * [Bitcoin 白皮书（中英对照）](/bitcoin-whitepaper-cn-en-translation/Bitcoin-Whitepaper-EN-CN.html)
 > * [坐享其成](https://github.com/xiaolai/zuoxiangqicheng)
