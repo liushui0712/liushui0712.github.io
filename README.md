@@ -7,7 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 > * [韭菜的自我修养·中文版](/the-self-cultivation-of-leeks/cn/) 
 > * [韭菜的自我修养·English](/the-self-cultivation-of-leeks/en/)
 > * [把时间当作朋友](/befriending-time/)
-> * [七年就是一辈子]（https://github.com/xiaolai/reborn）
+> * [七年就是一辈子](https://github.com/xiaolai/reborn)
 > * [自学是门手艺](/the-craft-of-selfteaching/) ·（[xue.cn 在线互动学习](https://xue.cn/hub))
 > * [Bitcoin 白皮书（中英对照）](/bitcoin-whitepaper-cn-en-translation/Bitcoin-Whitepaper-EN-CN.html)
 > * [坐享其成](https://github.com/xiaolai/zuoxiangqicheng)
